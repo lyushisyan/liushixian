@@ -2,7 +2,6 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Scopus or Web of Science
 nav: true
 nav_order: 2
 ---
