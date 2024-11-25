@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Talks
-permalink: /talks/
-description: A growing collection of your cool projects.
+title: Moments
+permalink: /moments/
+description: Important moments and events
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [talks, travel]
 horizontal: false
 ---
 
