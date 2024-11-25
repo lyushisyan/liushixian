@@ -4,7 +4,7 @@ title: MIPT-66
 description: Determination of harmonic properties of phonons in graphene based on the lattice dynamics method (in Russian)
 img: assets/img/MIPT.png
 importance: 2
-category: in Russian
+category: talks
 ---
 
 ## ОПРЕДЕЛЕНИЕ ГАРМОНИЧЕСКИХ СВОЙСТВ ФОНОНОВ В ГРАФЕНЕ НА ОСНОВЕ МЕТОДА ДИНАМИКИ РЕШЕТКИ
