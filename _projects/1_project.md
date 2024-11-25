@@ -1,10 +1,10 @@
 ---
 layout: page
 title: MMMSEC-2023
-description: Mathematical modeling of thermal conductivity of nanowires (in Russian)
+description: Mathematical modeling of thermal conductivity of nanowires
 img: assets/img/MMMSEC.png
 importance: 1
-category: in Russian
+category: talks
 ---
 
 ## <center> МАТЕМАТИЧЕСКОЕ МОДЕЛИРОВАНИЕ ТЕПЛОПРОВОДНОСТИ НАНОНИТЕЙ – ПЕРСПЕКТИВНЫХ КОМПОНЕНТОВ ПОЛУПРОВОДНИКОВОЙ ПРОМЫШЛЕННОСТИ </center>
